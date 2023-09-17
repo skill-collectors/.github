@@ -19,7 +19,7 @@ To build an active, independent, technology-focused community of enthusiasts, sk
 If you work at Securian:
 
 1. Add yourself to the "Technology Skill Collectors" email group. If you don't know how to do this, ask someone in the [leadership group](https://github.com/orgs/skill-collectors/teams/leadership/members)
-1. Submit a [request to join this organization](https://github.com/skill-collectors/incubator/issues/new?assignees=dave-burke&labels=kind%2Forg+join&template=join.md&title=Request+to+join+org)
+1. Submit a [request to join this organization](https://github.com/skill-collectors/.github/issues/new?assignees=dave-burke&labels=kind%2Forg+join&template=join.md&title=Request+to+join+org)
 
 If you don't work at Securian, see the [Careers page](https://www.securian.com/about-us/careers.html) for more information about open positions.
 
